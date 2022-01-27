@@ -42,6 +42,7 @@ public class Lecture2 {
 
     public static void main(String[] args) {
         int n = sc.nextInt();
+        // uncomment desired function call to run
 //        printNameNTimes(n);
 //        printOneToN(n);
 //        printNToOne(n);
